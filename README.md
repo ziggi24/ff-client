@@ -1,4 +1,37 @@
-# Getting Started with Create React App
+# FF-Client 
+
+[![Known Vulnerabilities](https://snyk.io/test/github/ziggi24/ff-client/badge.svg)](https://snyk.io/test/github/ziggi24/ff-client)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![HitCount](http://hits.dwyl.com/ziggi24/ff-client.svg)](http://hits.dwyl.com/ziggi24/ff-client)
+
+
+A reworked URL Shortening front end client made in react (based on [this project](https://github.com/ziggi24/ffrf.fr)). This is 1/2 of a URL shortening full stack app, the other half being a backend API written with Node/Express/MongoDB. I wanted to rebuild this project becuase the first version I made in an afternoon and has some very glaring flaws. I wanted to put more of an emphasis on security and get more experience designing perfomant, scalable, and efficient code.
+
+## TODO 
+- [ ] mobile-first, flexible page design 
+- [ ] connect to API backend 
+- [ ] write tests 
+  - [ ] Each Element
+- [ ] Dockerize 
+  - [ ] local 
+  - [ ] travis 
+  - [ ] remote
+
+## Visual Inspiration 
+
+![Dark Mode Nav Bar](https://cdn.dribbble.com/users/414694/videos/37793/shot.mp4)
+[Aaron Iker on Dribbble](https://dribbble.com/shots/6987202-Tab-bar-active-animation)
+
+![Flowing Flexible Layout](https://cdn.dribbble.com/users/2098337/screenshots/10752751/media/69b8e83400ac6382434e7486a0082792.jpg?compress=1&resize=1600x1200)
+[Ankit Kadian on Dribbble](https://dribbble.com/shots/10752751-Toy-store-mobile-app-design)
+
+
+![login layout](https://cdn.dribbble.com/users/473527/videos/23102/sign-in-rebound.mp4)
+[Nitish Khagwal on Dribbble](https://dribbble.com/shots/6374956-Sign-In-App-UI-Rebound)
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
